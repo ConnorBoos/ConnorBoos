@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="header.png">
+<img align="right" alt="Coding" width="900" src="header.png">
 
 <!--
 **ConnorBoos/ConnorBoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
