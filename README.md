@@ -1,6 +1,6 @@
 [![MasterHead](header.png)](https://github.com/ConnorBoos)
-<img align="right" alt="Coding" width="900" src="images (1).png">
-<img align="right" alt="Coding" width="900" src="tumblr_ncj9z1J6dS1r21vxto1_r1_500.gif">
+<img align="center" alt="JHU" width="400" src="images (1).png">
+<img align="center" alt="Marquette" width="400" src="tumblr_ncj9z1J6dS1r21vxto1_r1_500.gif">
 
 <!--
 **ConnorBoos/ConnorBoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
